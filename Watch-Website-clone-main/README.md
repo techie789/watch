@@ -24,4 +24,4 @@ To run this project locally, you need to:
 2. Open the `index.html` file in a web browser.
 
 ```bash
-git clone [https://afzal-n.github.io/Watch-Website-clone/]
+
